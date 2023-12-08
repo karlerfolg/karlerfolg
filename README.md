@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
                   
 - [Vulnerability management Greenborn OpenVas](https://github.com/karlerfolg/Vulnerability-management-OpenVas/blob/main/README.md)
-- [Vulnerability management Tenable Nessus essentials](https://github.com/joshmadakor1/Algorithms-Practice)
-- [Vulnerability management Qualys](https://github.com/joshmadakor1/Algorithms-Practice)
-- [SIEM Azure Sentinel](https://github.com/joshma/Algorithms-Practice)
+- [Vulnerability management Tenable Nessus essentials](https://github.com/karlerfolg/Algorithms-Practice)
+- [Vulnerability management Qualys](https://github.com/karlerfolg/Algorithms-Practice)
+- [SIEM Azure Sentinel](https://github.com/Algorithms-Practice)
   
   
 <h2>Certifications</h2>
