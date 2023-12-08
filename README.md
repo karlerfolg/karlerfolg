@@ -5,7 +5,7 @@
 - [Vulnerability management Greenborn OpenVas](https://github.com/karlerfolg/Vulnerability-management-OpenVas/blob/main/README.md)
 - [Vulnerability management Tenable Nessus essentials](https://github.com/joshmadakor1/Algorithms-Practice)
 - [Vulnerability management Qualys](https://github.com/joshmadakor1/Algorithms-Practice)
-- [SIEM Azure Sentinel](https://github.com/joshmadakor1/Algorithms-Practice)
+- [SIEM Azure Sentinel](https://github.com/joshma/Algorithms-Practice)
   
   
 <h2>Certifications</h2>
@@ -17,10 +17,6 @@
 -[ISC2 CC-Certified in Cybersecurity,Candidate CISSP](https://www.credly.com/earner/earned/badge/fb19bb48-3870-43d6-8a1f-a0cb9cd9464b)
 
 
-
-<h2>📺 YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
